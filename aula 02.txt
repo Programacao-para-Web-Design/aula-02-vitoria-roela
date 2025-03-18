@@ -1,0 +1,109 @@
+<!DOCtype HTML>
+<html lang= "pt-BR">
+     <head>
+         <meta charset= "UTF-8">
+         <title> </title>
+     </head>
+     <body> 
+     </body>
+</html>
+
+2.
+<!DOCtype HTML>
+<html lang= "pt-BR">
+      <head>
+          <meta charset= "UTF-8">
+          <title> </title>
+      </head>
+      <body>
+      </body>
+<?html>
+
+3.
+<!DOCtype HTML>
+<html lang= "pt-BR">
+      <head>
+          <meta charset= UTF-8">
+          <title> </title>
+      </head>
+      <body>
+      </body>
+</html>
+
+4.
+<!DOCtype HTML>
+<html lang= "pt-BR">
+      <head>
+          <meta charset= "UTF-8">
+          <title> </title>
+      </head>
+      <body>
+      </body>
+</html>
+
+5.
+<!DOCtype HTML>
+<html lang= "pt-BR">
+      <head>
+          <meta charset="UTF-8">
+          <title> </title>
+      </head>
+      <body>
+      </body>
+</html>
+
+6.
+<!DOCtype HTML>
+<html lang= "pt-BR">
+      <head>
+          <meta charset= "UTF-8">
+          <title> </title>
+      </head>
+      <body>
+      </body>
+/html>
+
+7.
+<!DOCtype HTML>
+<html lang= "pt-BR">
+      <head>
+          <meta charset= "UTF-8">
+          <title> </title>
+      </head>
+      <body>
+      </body>
+</html>
+
+8.
+<!DOCtype HTML>
+<html lang= "pt-BR>
+      <head>
+          <meta charset= "UTF-8">
+          <title> </title>
+      </head>
+      <body>
+      </body>
+</html>
+
+9. 
+<!DOCtype HTML> 
+<html lang="pt-BR">
+       <head>	
+            <meta charset="UTF-8"> 
+            <title> </title>
+       </head> 
+       <body> 
+       </body>
+</html>  
+	
+10.
+<!DOCtype HTML> 
+<html lang="pt-BR">
+       <head>	
+            <meta charset="UTF-8"> 
+            <title> </title>
+       </head> 
+       <body> 
+       </body>
+</html>  
+	
